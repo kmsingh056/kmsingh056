@@ -19,12 +19,13 @@ Hi 👋 there, I'm Krishna Mohan Singh
 
 ## I'm a Machine Learning Enthusiast and Backend Developer!
 
-- 💰 Want to start my startup !!
-- 🔭 I’m currently learning Natural Language Processing (NLP)
-- 👯 Open for Collaboration  
-- ⚡ I enjoy listening music 🎧 and traveling 🏝️🗻.
+- 💡 **Skills:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Generative AI
+- 🔭 **Currently Learning:** Computer Vision
+- 💰 **Goal:** Want to start my startup !!
+- 👯 **Open for Collaboration:** Looking to work with like-minded developers and researchers
+- ⚡ **Hobbies:** Listening to music 🎧, traveling 🏝️🗻, and coding 🤓
 
-
+---
 
 ### Languages and Tools:
 
@@ -49,19 +50,19 @@ Hi 👋 there, I'm Krishna Mohan Singh
 <br/>
 <br/>
 
-  <summary>:zap: Github Stats</summary>
+---
+
+### :zap: Github Stats
    <img align="left" alt="km-singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=kmsingh056" /> 
-<!--   ![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=kmsingh056)
- -->
-<!-- ![Krishna's github stats]() -->
-</details>
 
+---
 
+- 💬 **Ask Me About:** Anything! I'm happy to help.
+- 📫 **How to Reach Me:** [Email me](mailto:krishna.21ug1099@iiitranchi.ac.in)
 
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: krishna.21ug1099@iiitranchi.ac.in
+---
 
-### Show some ❤️ by starring some of the repositories!
+### Show Some ❤️ by Starring Some of My Repositories!
 
 <p align="center"> 
   Visitor count<br>
