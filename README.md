@@ -46,17 +46,7 @@
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 </section>
 
----
 
-### 🌟 Featured Projects
-
-Here are some of the projects I'm proud of:
-
-- **[Project Name 1](link-to-project-1)** - A brief description of the project.
-- **[Project Name 2](link-to-project-2)** - A brief description of the project.
-- **[Project Name 3](link-to-project-3)** - A brief description of the project.
-
----
 
 ### 📊 GitHub Stats
 
